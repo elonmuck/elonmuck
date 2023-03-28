@@ -1,6 +1,6 @@
 ### Hey guys, my name is Daniel! 🤙 🇧🇷
 
-* I'm currently learning about front end developer 🌕
+* I'm currently learning about Frontend Developer 🌕
 
 * I'm a mechanical technician 👨‍🔧
 
